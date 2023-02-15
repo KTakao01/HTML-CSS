@@ -1,0 +1,49 @@
+body{
+width:100%;
+height:auto;
+}
+
+p.title{
+font-size:25px;
+}
+
+table.t1{
+background-image : https://stg-app.mobile-backend.com/yamadayouhoujyou/term/hI2356aezMY7qQgskaIODaNLK29qS9vFV6bRvpCV.png;
+}
+
+table.d1{
+
+  border-collapse: collapse;
+  border-spacing: 0;
+padding:0px;
+}
+
+
+td{
+padding:0px;
+}
+
+
+img{
+style="display: block;
+  font-size:0px;
+  /*    line-height:0*/
+object-fit: cover;
+
+    }
+
+h3 {
+line-height: 0.5em;
+
+}
+
+h3.bcimage{
+background-image:url("https://stg-app.mobile-backend.com/yamadayouhoujyou/term/i8ufUoWgV5xJaUFXmVt8t6TSpAM5JEcNWg9CnahR.png");
+background-size:cover;
+margin:0px;
+padding:0px;
+line-height: 0.5em;
+background-position:center;
+width:100%
+height:auto;
+}
